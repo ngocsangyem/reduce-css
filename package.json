@@ -1,0 +1,26 @@
+{
+  "name": "reduce-css-bundle",
+  "version": "1.0.0",
+  "description": "reduce css html performance SEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngocsangyem/reduce-css.git"
+  },
+  "keywords": [
+    "reduce",
+    "css",
+    "html",
+    "performance",
+    "SEO"
+  ],
+  "author": "ngocsangyem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngocsangyem/reduce-css/issues"
+  },
+  "homepage": "https://github.com/ngocsangyem/reduce-css#readme"
+}
